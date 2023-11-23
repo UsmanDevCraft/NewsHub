@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    },
+    {
+    "source":{"id":"usa-today","name":"USA Today"},"author":"Isaiah Hole","title":"What Maryland coach Mike Locksley said after Michigan football beat Maryland - WolverinesWire","description":"Really good stuff here from the Maryland head coach. #GoBlue","url":"https://wolverineswire.usatoday.com/lists/what-maryland-coach-mike-locksley-said-after-michigan-football-beat-maryland/","urlToImage":"https://wolverineswire.usatoday.com/wp-content/uploads/sites/26/2023/11/Michigan-football-vs-Maryland-0713.jpg?w=1024&h=576&crop=1","publishedAt":"2023-11-18T23:28:00Z","content":"Photo: Isaiah Hole\r\nAs always give credit to our opponent. Michigan did a really good job having their team prepared for a game like this, with all the things they got going on up their neck of the w… [+2069 chars]"
+    },
+    {
+    "source":{"id":null,"name":"WDSU New Orleans"},"author":null,"title":"Election results: Winners, losers from Louisiana's Nov. 18 election - WDSU New Orleans","description":"Several big races were decided as voters cast their ballots on statewide and local races.","url":"https://www.wdsu.com/article/election-results-louisiana-nov-18-runoff/45795864","urlToImage":"https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/commitment-6553d7a93fdc8.jpg?crop=0.936xw:1.00xh;0.0326xw,0&resize=1200:*","publishedAt":"2023-11-19T04:24:00Z","content":"RACES TO WATCH: SECRETARY OF STATE| ATTORNEY GENERAL | TREASURER | CONSTITUTIONAL AMENDMENTS | STATE HOUSE &amp; STATE SENATE | ST. BERNARD PARISH PRESIDENT | TERREBONNE PARISH PRESIDENT | WASHINGTON… [+4355 chars]"
+    }
+  ]
+}
